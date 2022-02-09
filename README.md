@@ -5,7 +5,7 @@ Mr Spock is one of science fiction's most loved characters. He was originally in
 
 ## Dataset
 
-The dataset used is the `Spock_Dialogues.csv`, derived from [Star Trek Scripts](https://www.kaggle.com/gjbroughton/start-trek-scripts) on Kaggle. 
+The dataset used is the `Star_Trek_TOS_Dialogues.csv`, derived from [Star Trek Scripts](https://www.kaggle.com/gjbroughton/start-trek-scripts) on Kaggle. 
 
 <!-- ## Model(s) Used
 
