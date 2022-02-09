@@ -1,6 +1,6 @@
-# Problem Statement 
-This should be a brief description of the domain of your dataset (e.g. if it is the Titanic Dataset then write about the ship, the incident that happened, what you're trying to do with the data). You can go check out the accompanying blog, [A Machine Learning Project Structure for Everyone!](https://medium.com/@ashwiniyer1706/a-machine-learning-project-structure-for-everyone-e48a81d0bb63)
+# MrSpock: A Discord bot that is highly logical 
 
+MrSpock is your average Vulcan, highly logical, highly disciplined, extremely philosophical in nature. Interact with him here.
 
 ## Dataset
 
