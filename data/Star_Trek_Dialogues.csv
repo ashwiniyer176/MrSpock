@@ -1,4 +1,4 @@
-Speaker,Dialogue
+Character,Sentence
 SPOCK,Check the circuit.
 TYLER,"All operating, sir."
 SPOCK,"It can't be the screen then. Definitely something out there,"
@@ -1237,7 +1237,6 @@ MITCHELL,Jim.
 KIRK,His eyes went back to normal.
 SPOCK,"Fighting the force field drained his strength, for a while at"
 MITCHELL,"I'll just keep getting stronger. You know that, don't you."
-SCOTT,
 KIRK,I didn't order any  Affirmative. Landing
 SPOCK,He tried to get through the force field again. His eyes changed
 KIRK,Doctor Dehner feels he isn't that dangerous. What makes you right
@@ -2977,7 +2976,6 @@ GELDER,I'm not a criminal! I do not require neural
 SPOCK,"Neural neutraliser. Can you explain that, Doctor Van Gelder?"
 GELDER,A room. A device. Door. Control panel. I see it. A device. A
 SPOCK,This room. What happens there?
-GELDER,
 ADAMS,A neural neutraliser. Experimental.
 KIRK,"One question, Doctor. If it doesn't do any good"
 ADAMS,"Why do we go on using it, hmm, Captain? Hope. Yes, yes, there's"
@@ -5087,7 +5085,6 @@ SPOCK, Nothing there.
 GAETANO,I tell you there was.
 SPOCK,I don't doubt your word.
 GAETANO,But there must be something. I swear I hit it.
-SPOCK,
 BOMA,Sir?
 SPOCK,There's a remarkable resemblance to the Folsom Point discovered
 BOMA,Not very efficient? Is that all you have to say?
@@ -8102,7 +8099,6 @@ KIRK,"No, I think you and I can handle it. Why"
 SPOCK,Just a moment. It won't take long. Do you
 LEILA,I'll wait.
 SPOCK,"Ready to beam up, Jim."
-KIRK,
 KIRK,"All right, you mutinous, disloyal, computerised, half-breed,"
 SPOCK,"The term half-breed is somewhat applicable, but computerised is"
 KIRK,What makes you think you're a man? You're an overgrown
