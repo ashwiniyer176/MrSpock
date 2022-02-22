@@ -5,11 +5,11 @@ Mr Spock is one of science fiction's most loved characters. He was originally in
 
 ## Dataset
 
-The dataset used is the `Trek_TOS_Dialogues.csv`, derived from [Star Trek Scripts](https://www.kaggle.com/gjbroughton/start-trek-scripts) on Kaggle. 
+The dataset used is the `Trek_TOS_Dialogues.csv`, derived from [Star Trek Lines](https://www.kaggle.com/danielohanessian/star-trek-lines) on Kaggle. This is a collection of clean scripts in JSON format for every major Star Trek show.
 
-<!-- ## Model(s) Used
+## Model - DialoGPT
 
-This needs to be a description of the model used and a brief overview of how it works in theory (e.g taken of a CNN Model): 
+DialoGPT is a SOTA large-scale pretrained dialogue response generation model for multiturn conversations. The human evaluation results indicate that the response generated from DialoGPT is comparable to human response quality under a single-turn conversation Turing test. The model is trained on 147M multi-turn dialogue from Reddit discussion thread. 
 
-## Future Work
+<!-- ## Future Work
 Good ideas or strategies that you were not able to implement which you think can help  improve performance. -->
